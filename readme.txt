@@ -1,0 +1,1 @@
+-Incorporada función swing para hacer el balanceo antes de cada paso.
